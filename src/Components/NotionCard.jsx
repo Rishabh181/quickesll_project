@@ -1,7 +1,6 @@
 import React from 'react'
 import TodoCard from './NotionTile'
 import AdditionIcon from '../Shared/Icon/AdditionIcon'
-import LoadMoreIcon from '../Shared/Icon/LoadMoreIcon'
 import Avatar from '../Shared/Avatar/Avatar'
 import NoPriorityIcon from '../Shared/Icon/NoPriorityIcon'
 import LowPriorityIcon from '../Shared/Icon/LowPriorityIcon'

@@ -1,6 +1,5 @@
 import React from "react";
 import Avatar from "../Shared/Avatar/Avatar";
-import LoadMoreIcon from "../Shared/Icon/LoadMoreIcon";
 import DotIcon from "../Shared/Icon/DotIcon";
 
 const TodoCard = ({ticket={},displayOption=''}) => {

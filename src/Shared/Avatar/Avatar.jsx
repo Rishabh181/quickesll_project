@@ -1,5 +1,4 @@
 import React, { Fragment } from "react";
-import './avatar.css'
 
 const Avatar = ({ name="", imageUrl,available=false }) => {
   return (

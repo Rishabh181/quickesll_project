@@ -1,0 +1,35 @@
+.container {
+    box-sizing: border-box;
+    background: #0707b8;
+    border-radius: 50%;
+    position: relative;
+  }
+  
+  .avatarImage {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+  }
+  .avatatext {
+    color: #fff;
+    padding: 6px 6px;
+    text-transform: uppercase;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    font-weight: 700;
+  }
+  .online-status{
+    border-radius: 50%;
+    z-index: 3;
+    top: 18px;
+    left: 17px;
+    position: absolute;
+    background: rgba(223, 225, 228);
+    width: 11px;
+    height: 11px;
+  }
+  .online-status-green{
+    background: #03B346 
+  }
